@@ -51,13 +51,14 @@ The high score is saved in high_score.txt, in the same folder as quiz.py. get_hi
 | save_high_score()	| Writes the score to the file only if it is higher than the old one	| The results screen is shown
 | restart_quiz()	| Starts a new round with the same name	| Restart Quiz is clicked
 | on_close()	| Stops the timer and closes the window	| Exit is clicked or the window is closed 
+
 ## Screenshots
-![Start screen](File_Scrennshots/start.png)
-![Question screen](File_Scrennshots/question.png)
-![Answer feedback](File_Scrennshots/feedback.png)
-![Results screen](File_Scrennshots/results.png)
-![High score after reopening](File_Scrennshots/high_score.png)
- 
+![Start screen](screenshots/start.png)
+![Question screen](screenshots/question.png)
+![Answer feedback](screenshots/feedback.png)
+![Results screen](screenshots/results.png)
+![High score after reopening](screenshots/high_score.png)
+
 ## Challenges I Faced
 The hardest part was the timer. At first I did not know how to make the
 countdown work without freezing the window. I learned that root.after()
