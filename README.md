@@ -1,10 +1,10 @@
-Philippine History Quiz
+# Philippine History Quiz
  
-Name: Daniel Ann J. Nervar
-Section: A
-Topic: It is all about Philippine History
+**Name:** Daniel Ann J. Nervar
+**Section:** A
+**Topic:** It is all about Philippine History
  
-##Features Completed
+## Features Completed
 ✔ Name Entry
 ✔10 multiple-choice questions
 ✔	Random question order
